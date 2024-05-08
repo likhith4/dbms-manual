@@ -13,7 +13,7 @@
 </div>
 
 
-# MongoDB Laboratory Manual for VTU
+# Database Management System (BCS403) Lab Component Manual for VTU
 ![Static Badge](https://img.shields.io/badge/free-software-red)
 ![Static Badge](https://img.shields.io/badge/org-fsmk-blue)
 ![Static Badge](https://img.shields.io/badge/license-AGPL--3.0-red)
