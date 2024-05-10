@@ -9,7 +9,7 @@
 </div>
 -->
 <div align="center">
-![MongoDB](Res/gnuMongoDB.png "MongoDB")
+![DBMS](Res/DBMS.png "DBMS")
 </div>
 
 
