@@ -9,7 +9,7 @@
 </div>
 -->
 <div align="center">
-![DBMS](Res/DBMS.png "DBMS")
+![DBMS](Res/dbms.png "DBMS")
 </div>
 
 
