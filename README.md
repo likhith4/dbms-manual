@@ -81,7 +81,7 @@ Computer Programming Lab Manual for VTU
 -->
 
 ## Description
-The academic syllabus of VTU has introduced a new subject for Engineering namely **Database Management System (BCS403)**  which is a integrated course with both Theory and Practical. I am publishing here the first version of the manual that contains solutions to the lab component of this subject. A detailed blog on the same can be found here
+The academic syllabus of VTU has introduced a new subject for Engineering namely **Database Management System (BCS403)**  which is a integrated course with both Theory and Practical. I am publishing here the first version of the manual that contains solutions to the lab component of this subject. A detailed blog on the same can be found here https://moodle.sit.ac.in/blog/database-management-system-lab-component-bcs403/
 
 <!---
 
