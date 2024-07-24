@@ -1,16 +1,4 @@
-<!---
 
-<div align="center">
-![GCC](03_Res/img/gnu-gcc-cb-t.png "GCC")
-</div>
-
-<div align="center">
-![CPP](Res/gnu-gcc-cb-t.png "CPP")
-</div>
--->
-<div align="center">
-![DBMS](Res/dbms.png "DBMS")
-</div>
 
 
 # Database Management System (BCS403) Lab Component Manual for VTU
